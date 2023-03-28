@@ -54,6 +54,7 @@ public class User {
 	public void setAnni(Integer anni) {
 		this.anni = anni;
 	}
+
 	public Long getId() {
 		return id;
 	}
